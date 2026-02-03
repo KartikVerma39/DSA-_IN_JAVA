@@ -1,4 +1,4 @@
-class Solution {
+class Solution1 {
     static boolean armstrongNumber(int n) {
         // code here
         int temp = n;
